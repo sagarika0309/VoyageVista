@@ -1,6 +1,6 @@
 # VoyageVista - Tour Management System
 
-![VoyageVista Logo](logo.png)  <!-- Replace with your actual logo image path -->
+
 
 ## Table of Contents
 1. [Overview](#overview)
