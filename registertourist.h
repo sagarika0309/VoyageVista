@@ -1,5 +1,3 @@
-//Author: Cppbuzz.com
-//Note: Users can download & modify this project as per their requirement
 
 #ifndef REGISTERTOURIST_H
 #define REGISTERTOURIST_H
@@ -33,4 +31,4 @@ private:
     QSqlDatabase database;
 };
 
-#endif // REGISTERTOURIST_H
+#endif 
