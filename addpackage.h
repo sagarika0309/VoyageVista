@@ -1,6 +1,3 @@
-//Author: Cppbuzz.com
-//Note: Users can download & modify this project as per their requirement
-
 #ifndef ADDPACKAGE_H
 #define ADDPACKAGE_H
 
