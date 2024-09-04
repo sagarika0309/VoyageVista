@@ -1,6 +1,3 @@
-//Author: Cppbuzz.com
-//Note: Users can download & modify this project as per their requirement
-
 #include "registertourist.h"
 #include "ui_registertourist.h"
 
