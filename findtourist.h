@@ -1,6 +1,3 @@
-//Author: Cppbuzz.com
-//Note: Users can download & modify this project as per their requirement
-
 #ifndef FINDTOURIST_H
 #define FINDTOURIST_H
 
