@@ -1,6 +1,3 @@
-//Author: Cppbuzz.com
-//Note: Users can download & modify this project as per their requirement
-
 #include "addpackage.h"
 #include "ui_addpackage.h"
 
